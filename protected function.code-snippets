@@ -1,0 +1,10 @@
+{
+	"Protected Function": {
+		"prefix": "prof, protected function",
+		"body": [
+			"protected function $FUNCTION_NAME()",
+			"{",
+			"}"
+		],
+	}
+}
