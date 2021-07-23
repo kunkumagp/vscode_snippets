@@ -1,0 +1,11 @@
+{
+	"Public Function": {
+		"prefix": "pf, public function",
+		"body": [
+			"public function $FUNCTION_NAME()",
+			"{",
+			"    ",
+			"}"
+		],
+	}
+}

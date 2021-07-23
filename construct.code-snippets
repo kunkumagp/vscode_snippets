@@ -1,0 +1,12 @@
+{
+	"Construct": {
+		"prefix": "__construct, construct",
+		"body": [
+			"public function __construct()",
+			"{",
+			"   $0",
+			"}",
+		],
+		"description": "public construct"
+	}
+}

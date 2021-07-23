@@ -1,0 +1,22 @@
+{
+	"core_class": {
+		"prefix": "cc, core class",
+		"body": [
+			"<?php",
+			"",
+			"namespace app\\core;",
+			"",
+			"/*",
+			"* @author     Kunkuma Geeth Prasanna <kunkumagp@gmail.com>",
+			"* @package    app\\core",
+			"*/",
+			"",
+			"class $TM_FILENAME_BASE  ",
+			"{",
+			"    $0",
+			"}",
+			""
+		],
+		"description": ""
+	}
+}
